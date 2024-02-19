@@ -1,0 +1,26 @@
+// Follow the template to add your questions and answers
+{"intents": [
+  {"tag": "1",
+    "patterns": ["Oi !", "Olá !", "Ola !", "Opa !", "Eae ?", "Iai ?"],
+    "responses": ["Oi! Como posso te ajudar?"]},
+  {"tag": "2",
+    "patterns": ["Como vai?", "Olá, tudo bem?", "Tudo bem?", "Como você está?", "Tudo certo?", "Oi, tudo bem?"],
+    "responses": ["Oi! Como posso te ajudar?"]},
+  {"tag": "3",
+    "patterns": ["Obrigado !", "Muito obrigado !", "Valeu !", "Brigado !", "Obrigada !", "Brigada !"],
+    "responses": ["Disponha! Estou a disposição para ajudar em algo mais que precisar!"]},
+  {"tag": "4",
+    "patterns": ["Boa tarde!", "Boa Tarde! Tudo bem?", "Boa tarde! Tudo certo?"],
+    "responses": ["Boa tarde! Como posso te ajudar?"]},
+  {"tag": "5",
+    "patterns": ["Boa noite!", "Boa noite! Tudo bem?", "Boa noite! Tudo certo?"],
+    "responses": ["Boa noite! Como posso te ajudar?"]},
+  {"tag": "6",
+    "patterns": ["Bom dia!", "Bom dia! Tudo bem?", "Bom dia! Tudo certo?"],
+    "responses": ["Bom dia! Como posso te ajudar?"]},
+  {"tag": "7",
+    "patterns": ["Ok !", "Okay !", "Okk !", "Beleza !", "Blz !"],
+    "responses": ["Estou a disposição para ajudar em algo mais que precisar!"]}
+]}
+
+
