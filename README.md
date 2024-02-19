@@ -107,7 +107,7 @@ In this file all the **questions** and **answers** that will be used to **train 
 
 ### 🌐 Frontend:
 
-An **HTML** file was used for the interface, which is executed by **Flask** and used as a template. So when executing the **API**, the **HTML Website** will be executed automatically.
+An **HTML** file is used as an interface, being automatically recognized by **Flask** and executed when running the **API**.
 
 ## 📜 License
 
