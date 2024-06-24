@@ -1,5 +1,5 @@
 <h1>
-    Customer-Service-ChatBot 🤖
+    Chatbot de atendimento ao cliente🤖
 </h1>
 
 ![image](https://github.com/Miguel-Marsico/Customer-Service-ChatBot/assets/158609724/3006dff5-3f15-41e5-a4aa-7370cc9b45b8)
@@ -7,17 +7,17 @@
 
  ## 📋 Topics
 <div>
- • <a href="#-about">About</a> </br>
- • <a href="#-tools">Tools</a> </br>
- • <a href="#-how-to-execute-the-project">How to execute the project</a> </br>    
- • <a href="#-license">License</a></br>
+ • <a href="#-about">Sobre</a> </br>
+ • <a href="#-tools">Ferramentas</a> </br>
+ • <a href="#-how-to-execute-the-project">Como Executar esse projeto</a> </br>    
+ • <a href="#-license">Licença</a></br>
 </div>
 
-## 📗 About
+## 📗 Sobre
 
-This project is a **ChatBot** model trained for **customer service** with **TensorFlow Keras**.
+Este projeto é um modelo de **ChatBot** treinado para **atendimento ao cliente** com **TensorFlow Keras**.
 
-## 🔧 Tools
+## 🔧 Ferramentas
 
 ### 💻 Website ( HTML + CSS + JavaScript )
 
@@ -29,37 +29,37 @@ This project is a **ChatBot** model trained for **customer service** with **Tens
 - [Spacy](https://spacy.io)
 - [Pickle](https://docs.python.org/3/library/pickle.html)
 
-### 🛠️ **Utilities** 
+### 🛠️ **Utilitários** 
 
-- Compilers: **[Pycharm Community](https://www.jetbrains.com/pt-br/pycharm/)** 
+- Compiladores: **[Pycharm Community](https://www.jetbrains.com/pt-br/pycharm/)** 
 
-## ▶ How to execute the project
-### The project is divided into **3** parts:
+## ▶ Como Executar esse projeto
+### O projeto está dividido em **3** partes:
 
  - 🌐 **Frontend** (WebSite HTML, CSS, JavaScript)
- - ⚙️ **Backend: ChatBot and Api** (Python)
- - ⚙️ **Backend: Training** (Python, JSON)
+ - ⚙️ **Backend: ChatBot e Api** (Python)
+ - ⚙️ **Backend: Treinamento** (Python, JSON)
 
-💡 Using a **Python virtual environment (venv)** is essential to isolate and manage project dependencies in a secure and reproducible manner.
+💡 Usar um **ambiente virtual Python (venv)** é essencial para isolar e gerenciar dependências do projeto de maneira segura e reproduzível.
 
 ### ⚙️ main_chatbot.py:
 
-#### Create a venv:
+#### Crie um evento:
 
-1 - Navigate to the directory where you want to create the virtual environment:
+1 - Navegue até o diretório onde deseja criar o ambiente virtual:
 ```bash
  cd /path/to/your/project
 ```
-2 - Create virtual environment:
+2 - Crie um ambiente virtual:
 ```bash
  python3 -m venv name
 ```
-3 - Activate the virtual environment:
+3 - Ative o ambiente virtual:
 ```bash
  name\Scripts\activate
 ```
 
-#### Installing libraries:
+#### Instalação de bibliotecas:
 
 ```bash
  pip install Flask
@@ -77,7 +77,7 @@ This project is a **ChatBot** model trained for **customer service** with **Tens
  pip install tensorflow
 ```
 
-#### Library import:
+#### Importação de bibliotecas:
 ```bash
  from flask import Flask, request, jsonify, render_template
  import random
@@ -89,7 +89,7 @@ This project is a **ChatBot** model trained for **customer service** with **Tens
 ```
 ### ⚙️ training.py:
 
-#### Library import:
+#### Importação de bibliotecas:
 ```bash
  import random
  import json
@@ -103,14 +103,15 @@ This project is a **ChatBot** model trained for **customer service** with **Tens
 
 ### 📖 intents.json:
 
-In this file all the **questions** and **answers** that will be used to **train the ChatBot**.
+Neste arquivo estão todas as **perguntas** e **respostas** que serão utilizadas para **treinar o ChatBot**.
 
 ### 🌐 Frontend:
 
-An **HTML** file is used as an interface, being automatically recognized by **Flask** and executed when running the **API**.
+Um arquivo **HTML** é usado como interface, sendo automaticamente reconhecido pelo **Flask** e executado ao executar a **API**.
 
-## 📜 License
+## 📜 Licença
 
-### This project is under the MIT license. 
+### Este projeto está sob licença do MIT. 
 <br>
-Developed by Miguel Marsico 👋🏻
+
+Desenvolvido por Miguel Marsico 👋🏻
