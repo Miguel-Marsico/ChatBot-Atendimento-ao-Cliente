@@ -7,10 +7,10 @@
 
  ## 📋 Topics
 <div>
- • <a href="#-about">Sobre</a> </br>
- • <a href="#-tools">Ferramentas</a> </br>
- • <a href="#-how-to-execute-the-project">Como Executar esse projeto</a> </br>    
- • <a href="#-license">Licença</a></br>
+ • <a href="#-sobre">Sobre</a> </br>
+ • <a href="#-ferramentas">Ferramentas</a> </br>
+ • <a href="#-como-executar-esse-projeto">Como Executar esse projeto</a> </br>    
+ • <a href="#-licença">Licença</a></br>
 </div>
 
 ## 📗 Sobre
@@ -44,7 +44,7 @@ Este projeto é um modelo de **ChatBot** treinado para **atendimento ao cliente*
 
 ### ⚙️ main_chatbot.py:
 
-#### Crie um evento:
+#### Crie um ambiente virtual:
 
 1 - Navegue até o diretório onde deseja criar o ambiente virtual:
 ```bash
