@@ -5,7 +5,7 @@
 ![image](https://github.com/Miguel-Marsico/Customer-Service-ChatBot/assets/158609724/3006dff5-3f15-41e5-a4aa-7370cc9b45b8)
 ![image](https://github.com/Miguel-Marsico/Customer-Service-ChatBot/assets/158609724/51ed029e-ec9e-4465-aefa-7c3cf215953b)
 
- ## 📋 Topics
+ ## 📋 Tópicos
 <div>
  • <a href="#-sobre">Sobre</a> </br>
  • <a href="#-ferramentas">Ferramentas</a> </br>
